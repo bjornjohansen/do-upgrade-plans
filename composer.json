@@ -2,7 +2,7 @@
     "name": "bjornjohansen/do-upgrade-plans",
     "description": "Upgrade your DigitalOcean droplets to better plans with the same cost.",
     "type": "project",
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Bjørn Johansen",
