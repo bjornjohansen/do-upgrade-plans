@@ -21,4 +21,4 @@ Run the script: `php -f do-upgrade-plans/upgrade-plans.php`
 
 Watch as your droplets get upgraded.
 
-In case an error happens, your droplets will error cycle. This happened to 3 of my droplets. Further investigation (trying to upgrade manually) revealed that “Due to high demand and capacity restrictions we have temporarily disabled this size in this region.”
+In case an error happens, your droplets will power cycle, to make sure they are in a running state. This happened to 3 of my droplets. Further investigation (trying to upgrade manually) revealed that “Due to high demand and capacity restrictions we have temporarily disabled this size in this region.”
