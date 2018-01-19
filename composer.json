@@ -1,0 +1,15 @@
+{
+    "name": "bjornjohansen/do-upgrade-plans",
+    "description": "Upgrade your DigitalOcean droplets to better plans with the same cost.",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Bjørn Johansen",
+            "email": "post@bjornjohansen.no"
+        }
+    ],
+    "require": {
+        "nategood/httpful": "^0.2.20"
+    }
+}
