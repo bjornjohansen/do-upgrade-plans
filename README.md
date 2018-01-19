@@ -5,7 +5,7 @@ This script will use the DigitalOcean API to upgrade all of your droplets to bet
 
 ## Background
 
-January 16, 2018 DigitalOcean released [new pricing plans] where they basically doubled the RAM for the same price of the old plans. But to get the benefits for your existing droplets, you have to upgrade all of your existing droplets in a process that involves shutting them down, selecting the new plan, waiting for the upgrade to happen and power on the droplets again. I have tens of droplets and had no intention of doing this manually, so I wrote a script to use the DigitalOcean API to automate the upgrades. 
+January 16, 2018 DigitalOcean released [new pricing plans](https://blog.digitalocean.com/new-droplet-plans/) where they basically doubled the RAM for the same price of the old plans. But to get the benefits for your existing droplets, you have to upgrade all of your existing droplets in a process that involves shutting them down, selecting the new plan, waiting for the upgrade to happen and power on the droplets again. I have tens of droplets and had no intention of doing this manually, so I wrote a script to use the DigitalOcean API to automate the upgrades. 
 
 ## Installation
 
